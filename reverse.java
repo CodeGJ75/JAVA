@@ -1,3 +1,5 @@
+// prints the reverse of a string inputted by user
+
 import java.util.*;
 public class reverse{
 	public static void main(String args[]) {
