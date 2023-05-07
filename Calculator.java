@@ -1,3 +1,5 @@
+// A simple calculator code that keeps taking input from the user (integer and mathematical operation alternatively) until '=' is inputted.
+
 import java.util.*;
 class Calculator
 {
